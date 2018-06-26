@@ -5,7 +5,7 @@ class Pokemon
     @id, @name, @type, @hp, @db = id, name, type, hp, db
   end 
   
-  def save
+  def save (id:, )
   end 
   
   def find 
